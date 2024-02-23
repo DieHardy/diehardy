@@ -8,7 +8,7 @@ Hello, stranger! I'm Nikita. [](https://user-images.githubusercontent.com/183505
 
 <a href="https://www.github.com/diehardy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/diehardy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+![](https://github-readme-stats.vercel.app/api?username=diehardy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ### Skills
 
 
