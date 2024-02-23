@@ -2,9 +2,9 @@ Hello, stranger![](https://user-images.githubusercontent.com/18350557/176309783-
 ================================================================================================================================
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [UnturnedHow](http://unturned.how/)
+* 🖥️  Wiki for Unturned [UnturnedHow](http://unturned.how/)
 * ✉️  You can contact me at [support@unturned.how](mailto:support@unturned.how)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning JavaScript and PHP
 
 <a href="https://www.github.com/diehardy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/diehardy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
